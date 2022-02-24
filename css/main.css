@@ -10,11 +10,11 @@ body {
     font-family: 'Rubik', sans-serif;
 }
 
-@media (min-width: 1200psx) {
+/*@media (min-width: 1200psx) {
 body {
     width: 90%;
     }
-}
+}*/
 
 .pink {
     width: 50%;
@@ -26,21 +26,21 @@ body {
 
 @media (min-width: 1200px) {
 .pink {
-    width: 33%;
-    height: 47rem;
-    border-bottom-left-radius: 230px;
-    border-bottom-right-radius: 230px;
+    width: 30%;
+    height: 44.5rem;
+    border-bottom-left-radius: 350px;
+    border-bottom-right-radius: 350px;
     }
 }
 
 @media (min-width: 1200px) {
 .gray {
-    width: 30%;
+    width: 50%;
     height: 55rem;
-    background-color: #ede5f4;
+    background-color: #f0e9f7;
     margin-right: 0px;
-    margin-left: 79rem;
-    margin-top: -38rem;
+    margin-left: 72.6rem;
+    margin-top: -37.2rem;
     border-top-left-radius: 250px;
     border-top-right-radius: 250px;
     z-index: 6;
@@ -58,7 +58,7 @@ h1 {
 @media (min-width: 1200px) {
 h1 {
     text-align: left;
-    font-size: 3rem;
+    font-size: 2.8rem;
     font-weight: 500;
     }
 }
@@ -103,8 +103,8 @@ h4 {
 @media (min-width: 1200px) {
 .mainContainer {
     width: 18%;
-    margin-top: -38rem;
-    margin-left: 26rem;
+    margin-top: -36.5rem;
+    margin-left: 23rem;
     height: 34rem;
     }
 }
@@ -144,7 +144,7 @@ h4 {
 @media (min-width: 1200px) {
 .whiteFrame {
     width: 10%;
-    margin-left: 2.85rem;
+    margin-left: 2.87rem;
     }
 }
 
@@ -424,7 +424,7 @@ h4 {
     position: absolute;
     width: 42%;
     display: inline-block;
-    margin-left: 50rem;
+    margin-left: 46rem;
     margin-top: -30rem;
     z-index: 8;
     }
@@ -444,8 +444,8 @@ h4 {
 
 @media (min-width: 1200px) {
 .textFooter h2 {
-    width: 90%;
-    font-size: 1.2rem;
+    width: 82%;
+    font-size: 1.1rem;
     text-align: left;
     margin-left: 0px;
     line-height: 2.2rem;
